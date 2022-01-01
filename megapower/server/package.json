@@ -1,0 +1,13 @@
+{
+    "name": "megapower_server",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "dev_team",
+    "license": "MIT",
+    "dependencies": {
+        "json-server": "^0.17.0"
+    },
+    "scripts": {
+        "start": "json-server -p3005 -w db.json"
+    }
+}
