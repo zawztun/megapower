@@ -230,5 +230,8 @@
                 "bs": "target end-to-end models"
             }
         }
-    ]
+    ],
+    "products": [
+        { "id": 1, "title": "men vitamin", "Phasellus eu feugiat neque. Nunc ut dapibus dolor, sed fermentum tortor. Suspendisse imperdiet cursus blandit. ": "vitamins", "url": "https://unsplash.com/photos/GHp78jdvOZY" }
+      ]
 }
