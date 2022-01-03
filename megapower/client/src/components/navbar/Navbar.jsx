@@ -2,7 +2,7 @@ const Navbar = () => {
     return (
         <div>
             It is Navbar
-            it is second navbar
+            it is update nav bar
         </div>
     );
 }
